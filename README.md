@@ -28,3 +28,4 @@ It creates a new variable foo to store the final value of the recursive call.
 
 
 ### References:
+https://www.w3schools.com/jsref/jsref_slice_array.asp
