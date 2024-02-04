@@ -26,6 +26,7 @@ It creates a new variable foo to store the final value of the recursive call.
 
 6) if false, then the first element of the original input array is greater than or equal to the result of the recursive call, and the first element is returned.
 
+**OVERALL: This function finds and returns the largest element in the input array***
 
 ### References:
 https://www.w3schools.com/jsref/jsref_slice_array.asp
